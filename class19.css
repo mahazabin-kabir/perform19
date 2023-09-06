@@ -1,0 +1,28 @@
+h1, h2{
+
+                    border: 3px solid green;
+                    display: inline-block; height: 40px;
+                    background-color: aquamarine;
+                    }
+                    a{
+                    display: block;
+                    }
+                    .width{
+                                        width: 40px;margin: auto;
+                                        border: 2px solid red;
+                                        display: inline-block; height: 80px;
+                                        background-color: aquamarine;
+                                        }
+                    
+                    
+sub-box{
+                    position: absolute;
+                    height: 100px;
+
+                    width: 100px;
+                    left: 10px;
+
+background-color: red;
+}
+
+
